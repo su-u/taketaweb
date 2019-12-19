@@ -40,9 +40,17 @@ body {
 }
 
 .ranking {
-    width:  500px;
+    width:  600px;
     margin: 0 auto;
     .content {
         margin-top: 50px;
+
+        > img {
+            width: 275px;
+        }
     }
+}
+
+.c-text {
+    margin-left: 300px;
 }
